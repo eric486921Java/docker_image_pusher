@@ -3,5 +3,4 @@ ubuntu
 nginx
 ubuntu:16.04
 jrottenberg/ffmpeg
-nvidia/cuda:9.0-cudnn7-devel
-centos:centos7
+centos:centos7.9.2009
