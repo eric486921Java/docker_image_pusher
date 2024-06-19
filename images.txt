@@ -4,3 +4,4 @@ nginx
 ubuntu:16.04
 jrottenberg/ffmpeg
 centos:centos7.9.2009
+centos:7
