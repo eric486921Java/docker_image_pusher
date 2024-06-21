@@ -1,1 +1,1 @@
-nvidia/cuda-ppc64le:9.0-cudnn7-devel
+jeanblanchard/alpine-glibc
