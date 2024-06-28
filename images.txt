@@ -1,1 +1,1 @@
-jeanblanchard/alpine-glibc
+python:3.7
